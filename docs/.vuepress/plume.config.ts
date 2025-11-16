@@ -23,8 +23,8 @@ export default defineThemeConfig({
   appearance: true,  // 配置 深色模式
 
   social: [
-    { icon: 'github', link: 'https://github.com/deerwan' },
-    { icon: 'telegram', link: 'https://t.me/deerwan' },
+    { icon: 'github', link: 'https://github.com/zengyincen' },
+    { icon: 'notion', link: 'https://zengyincen.notion.site' },
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
@@ -54,8 +54,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: '/logo.png',
-    name: 'deerwan',
-    description: '鹿人的小窝',
+    name: '曾胤岑',
+    description: '曾胤岑的博客',
     // circle: true,
     // location: '',
     // organization: '',
