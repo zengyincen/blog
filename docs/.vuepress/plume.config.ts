@@ -24,7 +24,7 @@ export default defineThemeConfig({
 
   social: [
     { icon: 'github', link: 'https://github.com/zengyincen' },
-    { icon: 'notion', link: 'https://zengyincen.notion.site' },
+    { icon: 'web', link: 'https://zengyincen.notion.site' },
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
@@ -46,7 +46,7 @@ export default defineThemeConfig({
       <img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare" style="height:18px;width:18px;border-radius:50%;background:#fff;box-shadow:0 0 0 2px #fff;vertical-align:middle;" />
       <span style="font-weight:600;">Cloudflare</span>
     </a> 提供 CDN 加速 / 安全防护服务`,
-     copyright: '© 2025 Deerwan. All rights reserved.',
+     copyright: '© 2025 曾胤岑. All rights reserved.',
    },
 
   /**
