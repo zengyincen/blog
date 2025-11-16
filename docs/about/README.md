@@ -7,29 +7,12 @@ copyright: false
 <div class="about-container">
 
 
-## 💻 技术栈
-
-### 后端
-
-- **Python** - 主要开发语言
-- **FastAPI / Flask** - Web 框架
-- **数据库** - MySQL, PostgreSQL, MongoDB
-
-### 前端
-
-- **Vue.js** - 主要前端框架
-- **JavaScript / TypeScript** - 前端开发
-- **HTML / CSS** - 页面构建
-
-
----
-
 ## 📬 联系方式
 
 <div class="contact-links">
 
-- [![GitHub](https://img.shields.io/badge/GitHub-deerwan-181717?style=flat-square&logo=github)](https://github.com/deerwan)
-- [![Email](https://img.shields.io/badge/Email-hi@lllh.de-0078D4?style=flat-square&logo=mail.ru)](mailto:hi@lllh.de)
+- [![GitHub](https://img.shields.io/badge/GitHub-zengyincen-181717?style=flat-square&logo=github)](https://github.com/zengyincen)
+- [![Email](https://img.shields.io/badge/zengyincen@qq.com-0078D4?style=flat-square&logo=mail.ru)](mailto:zengyincen@qq.com)
 
 </div>
 
