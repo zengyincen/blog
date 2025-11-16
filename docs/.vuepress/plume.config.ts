@@ -24,7 +24,7 @@ export default defineThemeConfig({
 
   social: [
     { icon: 'github', link: 'https://github.com/zengyincen' },
-    { icon: 'web', link: 'https://zengyincen.notion.site' },
+    { icon: 'weibo', link: 'https://weibo.com/u/6063458646' },
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
