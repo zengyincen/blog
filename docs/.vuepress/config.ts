@@ -16,8 +16,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'deerwan',
-  description: '鹿人的小窝',
+  title: '曾胤岑',
+  description: '曾胤岑的博客',
 
   head: [
     // 配置站点图标
@@ -29,7 +29,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://lllh.de',
+    // hostname: 'https://blog.imnotfound.eu.org',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -144,10 +144,10 @@ export default defineUserConfig({
      comment: {
        provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
        comment: true,
-       repo: 'deerwan/deerwan.github.io',
-       repoId: 'R_kgDOQLceMw',
-       category: 'Announcements',
-       categoryId: 'DIC_kwDOQLceM84CxN3e',
+       repo: 'zengyincen/blog',
+       repoId: 'R_kgDOQWjI3Q',
+       category: 'General',
+       categoryId: 'DIC_kwDOQWjI3c4Cx1oo',
        mapping: 'pathname',
        reactionsEnabled: true,
        inputPosition: 'top',
